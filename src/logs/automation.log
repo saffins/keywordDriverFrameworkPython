@@ -1,0 +1,6 @@
+2024-01-04 17:05:34,288 - INFO: Sent password reset link successfully for test@gmail.com on https://account.leadiq.com/common/
+2024-01-04 17:07:00,432 - INFO: Sent password reset link successfully for test@gmail.com on https://account.leadiq.com/common/
+2024-01-04 17:07:46,182 - INFO: Sent password reset link successfully for test@gmail.com on https://create.kahoot.it/auth/login
+2024-01-04 17:41:49,947 - INFO: Unable to find the reset password link or text for test@gmail.com on https://create.kahoot.it/auth/login
+2024-01-04 17:42:32,072 - INFO: Sent password reset link successfully for test@gmail.com on https://create.kahoot.it/auth/login
+2024-01-04 17:45:30,772 - INFO: Sent password reset link successfully for test@gmail.com on https://create.kahoot.it/auth/login
